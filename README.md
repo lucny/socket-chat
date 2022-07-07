@@ -2,7 +2,7 @@
 # Simple chat - ukázková aplikace využívající web socketů
 
 <p align="left">
-  <img alt="Simple chat" src="./web/screen.png">
+  <img alt="Simple chat" src="./sample/screen.png">
 </p>
 
 ## Použité technologie
